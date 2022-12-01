@@ -1,4 +1,3 @@
 # Assignment3fork-NP
 
-Assignment 3
-Nhung Huong Pham 
+Nhung Huong Pham - Assignment 3
