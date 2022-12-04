@@ -1,3 +1,9 @@
+# Adding a Figure to my project
+```{r out.width='60%',echo=FALSE, fig.align='center'} knitr::include_graphics("figs/yourfigure.png")
+
+```
+
+
 # Step 1:
 
 Create something to be pushed into github repository
