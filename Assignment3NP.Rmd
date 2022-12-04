@@ -2,7 +2,7 @@
 ```{r out.width='60%',echo=FALSE, fig.align='center'} knitr::include_graphics("figs/yourfigure.png")
 
 ```
-"This is an excellent project"
+"This is need to merge"
 
 # Step 1:
 
