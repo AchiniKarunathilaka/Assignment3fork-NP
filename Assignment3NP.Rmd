@@ -2,7 +2,7 @@
 ```{r out.width='60%',echo=FALSE, fig.align='center'} knitr::include_graphics("figs/yourfigure.png")
 
 ```
-"This file is the logest file"
+"This the final change that will help to correct this project"
 
 # Step 1:
 
