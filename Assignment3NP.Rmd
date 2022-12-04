@@ -2,7 +2,11 @@
 ```{r out.width='60%',echo=FALSE, fig.align='center'} knitr::include_graphics("figs/yourfigure.png")
 
 ```
+<<<<<<< HEAD
 "This is a beautiful figure"
+=======
+"I like this project"
+>>>>>>> Achini
 
 # Step 1:
 
