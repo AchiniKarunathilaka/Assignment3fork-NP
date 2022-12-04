@@ -2,7 +2,7 @@
 ```{r out.width='60%',echo=FALSE, fig.align='center'} knitr::include_graphics("figs/yourfigure.png")
 
 ```
-"I like this project"
+"I like this project. I need to create more changes"
 
 # Step 1:
 
