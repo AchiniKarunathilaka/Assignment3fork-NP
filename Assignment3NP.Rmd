@@ -2,7 +2,7 @@
 ```{r out.width='60%',echo=FALSE, fig.align='center'} knitr::include_graphics("figs/yourfigure.png")
 
 ```
-"I need to update this file as there are lot of errors"
+"This is my first project this year"
 
 # Step 1:
 
